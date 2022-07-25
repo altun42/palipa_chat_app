@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "55024682194",
+    "project_id": "palipa-chat",
+    "storage_bucket": "palipa-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55024682194:android:0dec861b42b6b4bb5ed90b",
+        "android_client_info": {
+          "package_name": "com.example.palipa_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55024682194-4svb442rsv8nohiq5km313ju71mh9ujk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.palipa_chat",
+            "certificate_hash": "412ddcfc0a732485a473fc0debbb9aebd7afb8ea"
+          }
+        },
+        {
+          "client_id": "55024682194-80s7jui6iicm3hrdcr4qm59bnj10d2jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDIo6ubJGxH6jvndCH1c6uGNJkBoGwHOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55024682194-80s7jui6iicm3hrdcr4qm59bnj10d2jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
