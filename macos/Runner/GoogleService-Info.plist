@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1085151263821-53cl1nl2d6eqahku3agr2p8lhdh0qcb4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1085151263821-53cl1nl2d6eqahku3agr2p8lhdh0qcb4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAUIRQZDAqN2Tv0iFQipibck2jWimE9MF8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1085151263821</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.palipaChatApp</string>
+	<key>PROJECT_ID</key>
+	<string>palipa-chat-a1dca</string>
+	<key>STORAGE_BUCKET</key>
+	<string>palipa-chat-a1dca.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1085151263821:ios:8fe947cad6588caa25f004</string>
+	<key>DATABASE_URL</key>
+	<string>https://palipa-chat-a1dca-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

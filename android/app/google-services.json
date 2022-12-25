@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1085151263821",
+    "firebase_url": "https://palipa-chat-a1dca-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "palipa-chat-a1dca",
+    "storage_bucket": "palipa-chat-a1dca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085151263821:android:2d928d0b5397f9de25f004",
+        "android_client_info": {
+          "package_name": "com.example.palipa_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085151263821-in6d5tviacjot0ejio925jm8838rm73r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbMUeJUO3IUbxXx2biZGSpj20i0HoLQL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085151263821-in6d5tviacjot0ejio925jm8838rm73r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
